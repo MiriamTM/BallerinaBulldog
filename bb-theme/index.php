@@ -66,5 +66,7 @@ $container = get_theme_mod( 'understrap_container_type' );
 
 </div><!-- #index-wrapper -->
 
+<!--Hej Miriam, kan du se dette?-->
+
 <?php
 get_footer();
